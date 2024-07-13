@@ -1,0 +1,67 @@
+html,body{
+    background-color: wheat;
+    margin: 10px;
+
+
+}
+
+
+
+.flex-container{
+display: flex;
+justify-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: blue;
+
+
+ 
+}
+
+
+
+
+h1{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+    background-color: rgb(159, 100, 41);
+    border: 7px orange solid;
+    border-radius: 5px;
+    padding: 10px;
+    outline: black 3px solid;
+    max-width: 100%;
+    width: x;
+}
+
+hr{
+    max-width: 85%;
+    padding: 1.5px;
+    color: grey;
+    background-color: brown;
+    border-radius: 15px;
+    margin-top: 25px;
+
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+color: rgb(70, 62, 62);
+}
+
+.answer{
+    display: block;
+}
+
+h4{
+    display: block;
+    text-align: left;
+    text-align: center;
+    
+}
